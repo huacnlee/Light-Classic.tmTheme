@@ -5,8 +5,9 @@ Improve of TextMate Light Theme from `Mac Classic`.
 ### Usage
 
 ```bash
-$ wget https://github.com/huacnlee/Light-Classic.tmTheme/raw/master/Light%20Classic.tmTheme
-$ open Light\ Classic.tmTheme
+cd /tmp
+wget https://github.com/huacnlee/Light-Classic.tmTheme/raw/master/Light%20Classic.tmTheme
+open Light\ Classic.tmTheme
 ```
 
 Then will open TexMate -> "Select Bundle" window -> choice "Themes" -> press "OK".
